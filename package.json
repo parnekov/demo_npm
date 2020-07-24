@@ -1,11 +1,11 @@
 {
-  "name": "demo_npm",
+  "name": "demo-npm-parnekov",
   "version": "1.0.0",
   "description": "This is awesome npm module ;)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sasha.p",
+  "author": "parnekov",
   "license": "ISC"
 }
